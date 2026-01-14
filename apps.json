@@ -27,7 +27,7 @@
     {
       "id": "vpn",
       "name": "Vpn",
-      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/vpn_icon.png",
+      "icon": "https://github.com/conmangangqua/azura_app/releases/download/dev/vpn_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
