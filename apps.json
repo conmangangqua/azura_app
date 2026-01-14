@@ -33,7 +33,8 @@
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/vpn_dev.apk",
-        "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/vpn_prod.apk"
+        "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/vpn_prod.apk",
+        "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/vpn.aab"
       }
     }
   ]
