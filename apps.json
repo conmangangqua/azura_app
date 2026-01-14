@@ -1,3 +1,40 @@
 {
-  "apps": []
+  "apps": [
+    {
+      "id": "camera_ai",
+      "name": "Camera Ai",
+      "icon": "",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/camera_ai_dev.apk",
+        "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/camera_ai_prod.apk"
+      }
+    },
+    {
+      "id": "file_downloader",
+      "name": "File Downloader",
+      "icon": "",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/file_downloader_dev.apk",
+        "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/file_downloader_prod.apk"
+      }
+    },
+    {
+      "id": "vpn",
+      "name": "Vpn",
+      "icon": "",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/vpn_dev.apk",
+        "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/vpn_prod.apk"
+      }
+    }
+  ]
 }
