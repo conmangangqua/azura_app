@@ -15,7 +15,7 @@
     {
       "id": "file_downloader",
       "name": "File Downloader",
-      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/file_downloader_icon.png",
+      "icon": "https://github.com/conmangangqua/azura_app/releases/download/dev/file_downloader_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
