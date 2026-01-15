@@ -3,12 +3,13 @@
     {
       "id": "8-bit-games",
       "name": "8-bit-games",
-      "icon": "https://github.com/conmangangqua/azura_app/releases/download/dev/8-bit-games_icon.png",
+      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/8-bit-games_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/8-bit-games_dev.apk"
+        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/8-bit-games_dev.apk",
+        "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/8-bit-games_prod.apk"
       }
     },
     {
