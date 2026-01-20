@@ -14,18 +14,6 @@
       }
     },
     {
-      "id": "camera_ai",
-      "name": "Camera Ai",
-      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/camera_ai_icon.png",
-      "platform": "Android",
-      "description": "",
-      "features": [],
-      "downloads": {
-        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/camera_ai_dev.apk",
-        "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/camera_ai_prod.apk"
-      }
-    },
-    {
       "id": "camera_hd_-_digital_4k_camera",
       "name": "Camera Hd - Digital 4k Camera",
       "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/camera_hd_-_digital_4k_camera_icon.png",
