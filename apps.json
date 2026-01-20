@@ -26,6 +26,17 @@
       }
     },
     {
+      "id": "camera_hd_-_digital_4k_camera",
+      "name": "Camera Hd - Digital 4k Camera",
+      "icon": "https://github.com/conmangangqua/azura_app/releases/download/dev/camera_hd_-_digital_4k_camera_icon.png",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/camera_hd_-_digital_4k_camera_dev.apk"
+      }
+    },
+    {
       "id": "swift_secure_vpn",
       "name": "Swift Secure Vpn",
       "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/swift_secure_vpn_icon.png",
