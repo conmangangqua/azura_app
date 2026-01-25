@@ -14,18 +14,6 @@
       }
     },
     {
-      "id": "camera_hd_-_digital_4k_camera",
-      "name": "Camera Hd - Digital 4k Camera",
-      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/camera_hd_-_digital_4k_camera_icon.png",
-      "platform": "Android",
-      "description": "",
-      "features": [],
-      "downloads": {
-        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/camera_hd_-_digital_4k_camera_dev.apk",
-        "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/camera_hd_-_digital_4k_camera_prod.apk"
-      }
-    },
-    {
       "id": "snap_camera_hd",
       "name": "Snap Camera Hd",
       "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/snap_camera_hd_icon.png",
