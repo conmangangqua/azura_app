@@ -26,6 +26,17 @@
       }
     },
     {
+      "id": "snap_camera_hd",
+      "name": "Snap Camera Hd",
+      "icon": "https://github.com/conmangangqua/azura_app/releases/download/dev/snap_camera_hd_icon.png",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/snap_camera_hd_dev.apk"
+      }
+    },
+    {
       "id": "swift_secure_vpn",
       "name": "Swift Secure Vpn",
       "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/swift_secure_vpn_icon.png",
