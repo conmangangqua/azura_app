@@ -16,12 +16,13 @@
     {
       "id": "snaphd",
       "name": "Snaphd",
-      "icon": "https://github.com/conmangangqua/azura_app/releases/download/dev/snaphd_icon.png",
+      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/snaphd_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/snaphd_dev.apk"
+        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/snaphd_dev.apk",
+        "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/snaphd_prod.apk"
       }
     },
     {
