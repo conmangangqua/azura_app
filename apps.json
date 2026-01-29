@@ -14,6 +14,17 @@
       }
     },
     {
+      "id": "snap_photo_ai",
+      "name": "Snap Photo Ai",
+      "icon": "https://github.com/conmangangqua/azura_app/releases/download/dev/snap_photo_ai_icon.png",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/snap_photo_ai_dev.apk"
+      }
+    },
+    {
       "id": "snaphd",
       "name": "Snaphd",
       "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/snaphd_icon.png",
