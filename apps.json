@@ -16,12 +16,13 @@
     {
       "id": "snap_photo_ai",
       "name": "Snap Photo Ai",
-      "icon": "https://github.com/conmangangqua/azura_app/releases/download/dev/snap_photo_ai_icon.png",
+      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/snap_photo_ai_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/snap_photo_ai_dev.apk"
+        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/snap_photo_ai_dev.apk",
+        "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/snap_photo_ai_prod.apk"
       }
     },
     {
