@@ -22,7 +22,8 @@
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/gpocket_dev.apk",
-        "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/gpocket_prod.apk"
+        "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/gpocket_prod.apk",
+        "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/gpocket.aab"
       }
     },
     {
