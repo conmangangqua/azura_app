@@ -51,6 +51,17 @@
       }
     },
     {
+      "id": "snaphd_dev",
+      "name": "Snaphd Dev",
+      "icon": "",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/snaphd_dev_dev.apk"
+      }
+    },
+    {
       "id": "sonicboost_pro",
       "name": "Sonicboost Pro",
       "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/sonicboost_pro_icon.png",
