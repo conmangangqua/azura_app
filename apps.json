@@ -40,6 +40,15 @@
       }
     },
     {
+      "id": "snaphd_dev",
+      "name": "Snaphd Dev",
+      "icon": "https://github.com/conmangangqua/azura_app/releases/download/dev/snaphd_dev_icon.png",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {}
+    },
+    {
       "id": "sonicboost_pro",
       "name": "Sonicboost Pro",
       "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/sonicboost_pro_icon.png",
@@ -51,15 +60,6 @@
         "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/sonicboost_pro_prod.apk",
         "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/sonicboost_pro.aab"
       }
-    },
-    {
-      "id": "sonicboost_pro_dev",
-      "name": "Sonicboost Pro Dev",
-      "icon": "https://github.com/conmangangqua/azura_app/releases/download/dev/sonicboost_pro_dev_icon.png",
-      "platform": "Android",
-      "description": "",
-      "features": [],
-      "downloads": {}
     },
     {
       "id": "sonicboost_pro_prod",
