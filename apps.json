@@ -38,6 +38,17 @@
       }
     },
     {
+      "id": "gpocket_prod",
+      "name": "Gpocket Prod",
+      "icon": "",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/gpocket_prod_prod.apk"
+      }
+    },
+    {
       "id": "snaphd",
       "name": "Snaphd",
       "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/snaphd_icon.png",
