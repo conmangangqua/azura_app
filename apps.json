@@ -29,7 +29,7 @@
     {
       "id": "snaphd",
       "name": "Snaphd",
-      "icon": "https://github.com/conmangangqua/azura_app/releases/download/dev/snaphd_icon.png",
+      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/snaphd_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -55,7 +55,7 @@
     {
       "id": "swift_secure_vpn",
       "name": "Swift Secure Vpn",
-      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/swift_secure_vpn_icon.png",
+      "icon": "https://github.com/conmangangqua/azura_app/releases/download/dev/swift_secure_vpn_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
