@@ -40,17 +40,6 @@
       }
     },
     {
-      "id": "snaphd_prod",
-      "name": "Snaphd Prod",
-      "icon": "",
-      "platform": "Android",
-      "description": "",
-      "features": [],
-      "downloads": {
-        "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/snaphd_prod.aab"
-      }
-    },
-    {
       "id": "sonicboost_pro",
       "name": "Sonicboost Pro",
       "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/sonicboost_pro_icon.png",
@@ -75,15 +64,6 @@
         "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/swift_secure_vpn_prod.apk",
         "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/swift_secure_vpn.aab"
       }
-    },
-    {
-      "id": "swift_secure_vpn_prod",
-      "name": "Swift Secure Vpn Prod",
-      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/swift_secure_vpn_prod_icon.png",
-      "platform": "Android",
-      "description": "",
-      "features": [],
-      "downloads": {}
     },
     {
       "id": "vidkeeper_video_downloader",
