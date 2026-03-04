@@ -62,6 +62,15 @@
       "downloads": {}
     },
     {
+      "id": "sonicboost_pro_prod",
+      "name": "Sonicboost Pro Prod",
+      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/sonicboost_pro_prod_icon.png",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {}
+    },
+    {
       "id": "swift_secure_vpn",
       "name": "Swift Secure Vpn",
       "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/swift_secure_vpn_icon.png",
