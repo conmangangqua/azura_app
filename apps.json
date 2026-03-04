@@ -88,6 +88,17 @@
       }
     },
     {
+      "id": "swift_secure_vpn_dev",
+      "name": "Swift Secure Vpn Dev",
+      "icon": "",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/swift_secure_vpn_dev_dev.apk"
+      }
+    },
+    {
       "id": "vidkeeper_video_downloader",
       "name": "Vidkeeper Video Downloader",
       "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/vidkeeper_video_downloader_icon.png",
