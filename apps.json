@@ -40,17 +40,6 @@
       }
     },
     {
-      "id": "snaphd_prod",
-      "name": "Snaphd Prod",
-      "icon": "",
-      "platform": "Android",
-      "description": "",
-      "features": [],
-      "downloads": {
-        "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/snaphd_prod.aab"
-      }
-    },
-    {
       "id": "sonicboost_pro",
       "name": "Sonicboost Pro",
       "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/sonicboost_pro_icon.png",
