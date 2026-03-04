@@ -14,6 +14,17 @@
       }
     },
     {
+      "id": "glowai_dev",
+      "name": "Glowai Dev",
+      "icon": "",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/glowai_dev_dev.apk"
+      }
+    },
+    {
       "id": "gpocket",
       "name": "Gpocket",
       "icon": "https://github.com/conmangangqua/azura_app/releases/download/dev/gpocket_icon.png",
