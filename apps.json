@@ -53,6 +53,17 @@
       }
     },
     {
+      "id": "swift-secure-vpn",
+      "name": "Swift-secure-vpn",
+      "icon": "https://github.com/conmangangqua/azura_app/releases/download/dev/swift-secure-vpn_icon.png",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/swift-secure-vpn_dev.apk"
+      }
+    },
+    {
       "id": "swift_secure_vpn",
       "name": "Swift Secure Vpn",
       "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/swift_secure_vpn_icon.png",
@@ -63,18 +74,6 @@
         "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/swift_secure_vpn_dev.apk",
         "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/swift_secure_vpn_prod.apk",
         "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/swift_secure_vpn.aab"
-      }
-    },
-    {
-      "id": "vidkeeper",
-      "name": "Vidkeeper",
-      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/vidkeeper_icon.png",
-      "platform": "Android",
-      "description": "",
-      "features": [],
-      "downloads": {
-        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/vidkeeper_dev.apk",
-        "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/vidkeeper_prod.apk"
       }
     }
   ]
