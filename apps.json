@@ -27,6 +27,17 @@
       }
     },
     {
+      "id": "puller",
+      "name": "Puller",
+      "icon": "https://github.com/conmangangqua/azura_app/releases/download/dev/puller_icon.png",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/puller_dev.apk"
+      }
+    },
+    {
       "id": "snaphd",
       "name": "Snaphd",
       "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/snaphd_icon.png",
