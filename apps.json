@@ -79,12 +79,13 @@
     {
       "id": "vidkeeper",
       "name": "Vidkeeper",
-      "icon": "https://github.com/conmangangqua/azura_app/releases/download/dev/vidkeeper_icon.png",
+      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/vidkeeper_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/vidkeeper_dev.apk"
+        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/vidkeeper_dev.apk",
+        "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/vidkeeper_prod.apk"
       }
     },
     {
