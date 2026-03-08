@@ -48,6 +48,7 @@
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/sonicboost_pro_dev.apk",
+        "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/sonicboost_pro_prod.apk",
         "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/sonicboost_pro.aab"
       }
     },
