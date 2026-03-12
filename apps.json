@@ -27,6 +27,17 @@
       }
     },
     {
+      "id": "rhythmlab",
+      "name": "Rhythmlab",
+      "icon": "https://github.com/conmangangqua/azura_app/releases/download/dev/rhythmlab_icon.png",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/rhythmlab_dev.apk"
+      }
+    },
+    {
       "id": "snaphd",
       "name": "Snaphd",
       "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/snaphd_icon.png",
