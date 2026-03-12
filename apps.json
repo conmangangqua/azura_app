@@ -29,12 +29,13 @@
     {
       "id": "rhythmlab",
       "name": "Rhythmlab",
-      "icon": "https://github.com/conmangangqua/azura_app/releases/download/dev/rhythmlab_icon.png",
+      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/rhythmlab_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/rhythmlab_dev.apk"
+        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/rhythmlab_dev.apk",
+        "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/rhythmlab_prod.apk"
       }
     },
     {
