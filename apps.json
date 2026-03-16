@@ -35,7 +35,8 @@
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/rhythmlab_dev.apk",
-        "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/rhythmlab_prod.apk"
+        "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/rhythmlab_prod.apk",
+        "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/rhythmlab.aab"
       }
     },
     {
