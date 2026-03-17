@@ -1,6 +1,17 @@
 {
   "apps": [
     {
+      "id": "apex_booster",
+      "name": "Apex Booster",
+      "icon": "https://github.com/conmangangqua/azura_app/releases/download/dev/apex_booster_icon.png",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/apex_booster_dev.apk"
+      }
+    },
+    {
       "id": "glowai",
       "name": "Glowai",
       "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/glowai_icon.png",
