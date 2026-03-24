@@ -1,6 +1,17 @@
 {
   "apps": [
     {
+      "id": "8bit_games",
+      "name": "8bit Games",
+      "icon": "",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/8bit_games.aab"
+      }
+    },
+    {
       "id": "apex_booster",
       "name": "Apex Booster",
       "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/apex_booster_icon.png",
