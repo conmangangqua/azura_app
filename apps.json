@@ -50,6 +50,17 @@
       }
     },
     {
+      "id": "gpocket_dev",
+      "name": "Gpocket Dev",
+      "icon": "",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/gpocket_dev_dev.apk"
+      }
+    },
+    {
       "id": "rhythmlab",
       "name": "Rhythmlab",
       "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/rhythmlab_icon.png",
