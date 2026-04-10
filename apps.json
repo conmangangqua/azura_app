@@ -40,6 +40,17 @@
       }
     },
     {
+      "id": "nova_ai_art",
+      "name": "Nova Ai Art",
+      "icon": "https://github.com/conmangangqua/azura_app/releases/download/dev/nova_ai_art_icon.png",
+      "platform": "iOS",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/nova_ai_art_dev.plist"
+      }
+    },
+    {
       "id": "rhythmlab",
       "name": "Rhythmlab",
       "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/rhythmlab_icon.png",
