@@ -385,6 +385,10 @@
 
     fetch("apps.json")
       .then(res => res.json())
+      .then(data => {
+        allApps = data.apps || [];
+        renderApps(allApps);
+      })
       .catch(err => {
         document.getElementById("appContainer").innerHTML = '<div style="color: #ef4444; text-align: center; grid-column: 1/-1; padding: 40px; font-weight: 700;">❌ Connection error. Please try again later.</div>';
       });
