@@ -40,6 +40,17 @@
       }
     },
     {
+      "id": "gps_circle",
+      "name": "Gps Circle",
+      "icon": "https://github.com/conmangangqua/azura_app/releases/download/dev/gps_circle_icon.png",
+      "platform": "iOS",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/gps_circle_dev.plist"
+      }
+    },
+    {
       "id": "nova_ai_art",
       "name": "Nova Ai Art",
       "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/nova_ai_art_icon.png",
