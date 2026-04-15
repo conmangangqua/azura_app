@@ -314,7 +314,7 @@
 
   <section class="search-section">
     <div class="search-wrapper">
-      <input type="text" id="searchInput" placeholder="Tìm tên ứng dụng hoặc tính năng..." oninput="filterApps()">
+      <input type="text" id="searchInput" placeholder="Search for apps..." oninput="filterApps()">
     </div>
   </section>
 
@@ -341,7 +341,7 @@
       container.innerHTML = "";
 
       if (apps.length === 0) {
-        container.innerHTML = '<div style="grid-column: 1/-1; text-align: center; padding: 60px; color: var(--text-muted); font-weight: 600;">Không tìm thấy ứng dụng nào phù hợp.</div>';
+        container.innerHTML = '<div style="grid-column: 1/-1; text-align: center; padding: 60px; color: var(--text-muted); font-weight: 600;">No apps found matching your search.</div>';
         return;
       }
 
@@ -363,11 +363,11 @@
             <span class="badge ${isIOS ? 'ios' : 'android'}">${app.platform || 'Android'}</span>
           </div>
           <h2 class="app-title">${app.name}</h2>
-          <p class="app-desc">${app.description || 'Ứng dụng nội bộ phát triển theo tiêu chuẩn Platinum.'}</p>
+          <p class="app-desc">${app.description || ''}</p>
           <div class="btn-grid">
             ${devUrl ? `<a href="${devUrl}" class="btn btn-dev">🔧 Dev Build</a>` : ""}
             ${prodUrl ? `<a href="${prodUrl}" class="btn btn-live">🚀 Live Build</a>` : ""}
-            ${aabUrl ? `<a href="${aabUrl}" class="btn btn-full">📦 Tải xuống AAB</a>` : ""}
+            ${aabUrl ? `<a href="${aabUrl}" class="btn btn-full">📦 Download AAB</a>` : ""}
           </div>
         `;
         container.appendChild(card);
@@ -385,12 +385,8 @@
 
     fetch("apps.json")
       .then(res => res.json())
-      .then(data => {
-        allApps = data.apps || [];
-        renderApps(allApps);
-      })
       .catch(err => {
-        document.getElementById("appContainer").innerHTML = '<div style="color: #ef4444; text-align: center; grid-column: 1/-1; padding: 40px; font-weight: 700;">❌ Lỗi tải dữ liệu. Vui lòng kiểm tra lại ops/apps.json.</div>';
+        document.getElementById("appContainer").innerHTML = '<div style="color: #ef4444; text-align: center; grid-column: 1/-1; padding: 40px; font-weight: 700;">❌ Connection error. Please try again later.</div>';
       });
   </script>
 </body>
