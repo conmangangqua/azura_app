@@ -81,7 +81,8 @@
         "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/rhythmlab.aab"
       },
       "versions": {
-        "dev": "1.0.2+26051401"
+        "dev": "1.0.2+26051401",
+        "aab": "1.0.2+26051401"
       }
     },
     {
