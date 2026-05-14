@@ -40,7 +40,9 @@
         "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/gpocket_prod.apk",
         "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/gpocket.aab"
       },
-      "versions": {}
+      "versions": {
+        "dev": "1.0.4+26042301"
+      }
     },
     {
       "id": "gps_circle",
