@@ -276,6 +276,19 @@
     .btn-full { grid-column: span 2; background: #f1f5f9; color: #475569; border: 1px solid #e2e8f0; }
     .btn-full:hover { background: var(--primary); color: #fff; box-shadow: 0 8px 25px var(--primary-glow); }
 
+    .ver-badge {
+      display: inline-block;
+      margin-left: 6px;
+      padding: 1px 6px;
+      font-size: 10px;
+      font-weight: 700;
+      border-radius: 8px;
+      background: rgba(0,0,0,0.08);
+      color: inherit;
+      vertical-align: middle;
+      letter-spacing: 0;
+    }
+
     footer {
       padding: 60px 20px;
       text-align: center;
@@ -350,6 +363,8 @@
         const devUrl = formatUrl(app.downloads?.dev, isIOS);
         const prodUrl = formatUrl(app.downloads?.prod, isIOS);
         const aabUrl = app.downloads?.aab || "";
+        const v = app.versions || {};
+        const vBadge = (k) => v[k] ? `<span class="ver-badge">v${v[k]}</span>` : "";
 
         const card = document.createElement("article");
         card.className = "app-card";
@@ -365,9 +380,9 @@
           <h2 class="app-title">${app.name}</h2>
           <p class="app-desc">${app.description || ''}</p>
           <div class="btn-grid">
-            ${devUrl ? `<a href="${devUrl}" class="btn btn-dev">🔧 Dev Build</a>` : ""}
-            ${prodUrl ? `<a href="${prodUrl}" class="btn btn-live">🚀 Live Build</a>` : ""}
-            ${aabUrl ? `<a href="${aabUrl}" class="btn btn-full">📦 Download AAB</a>` : ""}
+            ${devUrl ? `<a href="${devUrl}" class="btn btn-dev">🔧 Dev Build${vBadge('dev')}</a>` : ""}
+            ${prodUrl ? `<a href="${prodUrl}" class="btn btn-live">🚀 Live Build${vBadge('prod')}</a>` : ""}
+            ${aabUrl ? `<a href="${aabUrl}" class="btn btn-full">📦 Download AAB${vBadge('aab')}</a>` : ""}
           </div>
         `;
         container.appendChild(card);
