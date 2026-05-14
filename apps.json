@@ -41,7 +41,8 @@
         "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/gpocket.aab"
       },
       "versions": {
-        "dev": "1.0.4+26042301"
+        "dev": "1.0.4+26042301",
+        "prod": "1.0.4+26042301"
       }
     },
     {
