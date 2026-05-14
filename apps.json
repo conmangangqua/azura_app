@@ -11,7 +11,8 @@
         "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/apex_booster_dev.apk",
         "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/apex_booster_prod.apk",
         "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/apex_booster.aab"
-      }
+      },
+      "versions": {}
     },
     {
       "id": "glowai",
@@ -24,7 +25,8 @@
         "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/glowai_dev.apk",
         "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/glowai_prod.apk",
         "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/glowai.aab"
-      }
+      },
+      "versions": {}
     },
     {
       "id": "gpocket",
@@ -37,7 +39,8 @@
         "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/gpocket_dev.apk",
         "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/gpocket_prod.apk",
         "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/gpocket.aab"
-      }
+      },
+      "versions": {}
     },
     {
       "id": "gps_circle",
@@ -49,7 +52,8 @@
       "downloads": {
         "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/gps_circle_dev.plist",
         "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/gps_circle_prod.plist"
-      }
+      },
+      "versions": {}
     },
     {
       "id": "nova_ai_art",
@@ -61,7 +65,8 @@
       "downloads": {
         "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/nova_ai_art_dev.plist",
         "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/nova_ai_art_prod.plist"
-      }
+      },
+      "versions": {}
     },
     {
       "id": "rhythmlab",
@@ -74,7 +79,8 @@
         "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/rhythmlab_dev.apk",
         "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/rhythmlab_prod.apk",
         "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/rhythmlab.aab"
-      }
+      },
+      "versions": {}
     },
     {
       "id": "snaphd",
@@ -87,7 +93,8 @@
         "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/snaphd_dev.apk",
         "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/snaphd_prod.apk",
         "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/snaphd.aab"
-      }
+      },
+      "versions": {}
     },
     {
       "id": "sonicboost_pro",
@@ -100,6 +107,9 @@
         "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/sonicboost_pro_dev.apk",
         "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/sonicboost_pro_prod.apk",
         "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/sonicboost_pro.aab"
+      },
+      "versions": {
+        "dev": "1.0.3+26050401"
       }
     },
     {
@@ -113,7 +123,8 @@
         "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/swift_secure_vpn_dev.apk",
         "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/swift_secure_vpn_prod.apk",
         "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/swift_secure_vpn.aab"
-      }
+      },
+      "versions": {}
     },
     {
       "id": "vidkeeper_video_downloader",
@@ -126,7 +137,8 @@
         "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/vidkeeper_video_downloader_dev.apk",
         "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/vidkeeper_video_downloader_prod.apk",
         "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/vidkeeper_video_downloader.aab"
-      }
+      },
+      "versions": {}
     }
   ]
 }
