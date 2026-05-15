@@ -26,7 +26,9 @@
         "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/glowai_prod.apk",
         "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/glowai.aab"
       },
-      "versions": {}
+      "versions": {
+        "dev": "1.0.3+26050601"
+      }
     },
     {
       "id": "gpocket",
