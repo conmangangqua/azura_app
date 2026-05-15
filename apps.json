@@ -27,7 +27,8 @@
         "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/glowai.aab"
       },
       "versions": {
-        "dev": "1.0.3+26050601"
+        "dev": "1.0.3+26050601",
+        "prod": "1.0.3+26050601"
       }
     },
     {
