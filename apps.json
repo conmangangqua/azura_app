@@ -51,7 +51,7 @@
     {
       "id": "gps_circle",
       "name": "Gps Circle",
-      "icon": "https://github.com/conmangangqua/azura_app/releases/download/dev/gps_circle_icon.png",
+      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/gps_circle_icon.png",
       "platform": "iOS",
       "description": "",
       "features": [],
