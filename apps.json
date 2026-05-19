@@ -12,7 +12,8 @@
         "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/apex_booster_prod.apk",
         "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/apex_booster.aab"
       },
-      "versions": {}
+      "versions": {},
+      "store": "https://play.google.com/store/apps/details?id=com.tranquilstudio.apex"
     },
     {
       "id": "glowai",
@@ -29,7 +30,8 @@
       "versions": {
         "dev": "1.0.4+26051501",
         "prod": "1.0.4+26051501"
-      }
+      },
+      "store": "https://play.google.com/store/apps/details?id=com.tmt.photo.ai.prod"
     },
     {
       "id": "gpocket",
@@ -46,7 +48,8 @@
       "versions": {
         "dev": "1.0.5+26051501",
         "prod": "1.0.5+26051501"
-      }
+      },
+      "store": ""
     },
     {
       "id": "gps_circle",
@@ -62,7 +65,8 @@
       "versions": {
         "dev": "1.0.0+26051604",
         "prod": "1.0.0+26051604"
-      }
+      },
+      "store": ""
     },
     {
       "id": "nova_ai_art",
@@ -78,7 +82,8 @@
       "versions": {
         "dev": "1.0.0+26051601",
         "prod": "1.0.0+26051601"
-      }
+      },
+      "store": ""
     },
     {
       "id": "rhythmlab",
@@ -96,7 +101,8 @@
         "dev": "1.0.2+26051401",
         "prod": "1.0.2+26051401",
         "aab": "1.0.2+26051401"
-      }
+      },
+      "store": "https://play.google.com/store/apps/details?id=com.tranquil.rhythmlab.beatmaker"
     },
     {
       "id": "snaphd",
@@ -110,7 +116,8 @@
         "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/snaphd_prod.apk",
         "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/snaphd.aab"
       },
-      "versions": {}
+      "versions": {},
+      "store": "https://play.google.com/store/apps/details?id=com.tmt.camerahd"
     },
     {
       "id": "sonicboost_pro",
@@ -128,7 +135,8 @@
         "dev": "1.0.3+26051401",
         "prod": "1.0.3+26051401",
         "aab": "1.0.3+26051401"
-      }
+      },
+      "store": "https://play.google.com/store/apps/details?id=com.tmt.sonicboostpro"
     },
     {
       "id": "swift_secure_vpn",
@@ -142,7 +150,8 @@
         "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/swift_secure_vpn_prod.apk",
         "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/swift_secure_vpn.aab"
       },
-      "versions": {}
+      "versions": {},
+      "store": "https://play.google.com/store/apps/details?id=com.tmt.vpn.connection"
     },
     {
       "id": "vidkeeper_video_downloader",
@@ -156,7 +165,8 @@
         "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/vidkeeper_video_downloader_prod.apk",
         "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/vidkeeper_video_downloader.aab"
       },
-      "versions": {}
+      "versions": {},
+      "store": "https://play.google.com/store/apps/details?id=com.tmt.videodownloader.prod"
     }
   ]
 }
