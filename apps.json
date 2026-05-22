@@ -71,7 +71,7 @@
     {
       "id": "nova_ai_art",
       "name": "Nova Ai Art",
-      "icon": "https://github.com/conmangangqua/azura_app/releases/download/dev/nova_ai_art_icon.png",
+      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/nova_ai_art_icon.png",
       "platform": "iOS",
       "description": "",
       "features": [],
@@ -81,7 +81,7 @@
       },
       "versions": {
         "dev": "1.0.0+26052201",
-        "prod": "1.0.0+26052104"
+        "prod": "1.0.0+26052201"
       },
       "store": ""
     },
