@@ -5,7 +5,7 @@
       "name": "Apex Booster",
       "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/apex_booster_icon.png",
       "platform": "Android",
-      "description": "Game hub with device monitor, RAM cleaner, GFX tools and floating FPS overlay.",
+      "description": "",
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/apex_booster_dev.apk",
@@ -18,9 +18,9 @@
     {
       "id": "glowai",
       "name": "Glowai",
-      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/glowai_icon.png",
+      "icon": "https://github.com/conmangangqua/azura_app/releases/download/dev/glowai_icon.png",
       "platform": "Android",
-      "description": "Create AI art, enhance to HD, expand backgrounds and remove objects in a tap.",
+      "description": "",
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/glowai_dev.apk",
@@ -28,7 +28,7 @@
         "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/glowai.aab"
       },
       "versions": {
-        "dev": "1.0.4+26052001",
+        "dev": "1.0.4+26052501",
         "prod": "1.0.4+26052001"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tmt.photo.ai.prod"
@@ -38,7 +38,7 @@
       "name": "Gpocket",
       "icon": "https://github.com/conmangangqua/azura_app/releases/download/dev/gpocket_icon.png",
       "platform": "Android",
-      "description": "Pocket-size retro handheld player with smooth controls and save states.",
+      "description": "",
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/gpocket_dev.apk",
@@ -56,7 +56,7 @@
       "name": "Gps Circle",
       "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/gps_circle_icon.png",
       "platform": "iOS",
-      "description": "Family Locator & Geofence",
+      "description": "",
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/gps_circle_dev.plist",
@@ -73,7 +73,7 @@
       "name": "Nova Ai Art",
       "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/nova_ai_art_icon.png",
       "platform": "iOS",
-      "description": "AI Photo Packs & Face Studio",
+      "description": "",
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/nova_ai_art_dev.plist",
@@ -90,7 +90,7 @@
       "name": "Rhythmlab",
       "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/rhythmlab_icon.png",
       "platform": "Android",
-      "description": "Make beats with drums, bass, piano and synth pads on your phone.",
+      "description": "",
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/rhythmlab_dev.apk",
@@ -109,7 +109,7 @@
       "name": "Snaphd",
       "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/snaphd_icon.png",
       "platform": "Android",
-      "description": "Smart camera, photo editor, collage & AI tools — capture, edit and share fast.",
+      "description": "",
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/snaphd_dev.apk",
@@ -124,7 +124,7 @@
       "name": "Sonicboost Pro",
       "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/sonicboost_pro_icon.png",
       "platform": "Android",
-      "description": "Volume booster, 10-band equalizer and music player with bass and virtualizer.",
+      "description": "",
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/sonicboost_pro_dev.apk",
@@ -143,7 +143,7 @@
       "name": "Swift Secure Vpn",
       "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/swift_secure_vpn_icon.png",
       "platform": "Android",
-      "description": "Fast OpenVPN client with encrypted tunneling and global server locations.",
+      "description": "",
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/swift_secure_vpn_dev.apk",
@@ -158,7 +158,7 @@
       "name": "Vidkeeper Video Downloader",
       "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/vidkeeper_video_downloader_icon.png",
       "platform": "Android",
-      "description": "Save videos to your gallery for offline viewing — fast, simple, ad-light.",
+      "description": "",
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/vidkeeper_video_downloader_dev.apk",
