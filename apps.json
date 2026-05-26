@@ -161,7 +161,7 @@
     {
       "id": "vidkeeper_video_downloader",
       "name": "Vidkeeper Video Downloader",
-      "icon": "https://github.com/conmangangqua/azura_app/releases/download/dev/vidkeeper_video_downloader_icon.png",
+      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/vidkeeper_video_downloader_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -171,7 +171,8 @@
         "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/vidkeeper_video_downloader.aab"
       },
       "versions": {
-        "dev": "1.0.6+26050501"
+        "dev": "1.0.6+26050501",
+        "prod": "1.0.6+26050501"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tmt.videodownloader.prod"
     }
