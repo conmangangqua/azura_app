@@ -128,7 +128,7 @@
     {
       "id": "sonicboost_pro",
       "name": "Sonicboost Pro",
-      "icon": "https://github.com/conmangangqua/azura_app/releases/download/dev/sonicboost_pro_icon.png",
+      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/sonicboost_pro_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
