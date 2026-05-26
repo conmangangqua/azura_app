@@ -72,6 +72,21 @@
       "store": "https://apps.apple.com/us/app/gps-family-circle/id6770014236"
     },
     {
+      "id": "leining_ai",
+      "name": "Leining Ai",
+      "icon": "https://github.com/conmangangqua/azura_app/releases/download/dev/leining_ai_icon.png",
+      "platform": "iOS",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/leining_ai_dev.plist"
+      },
+      "versions": {
+        "dev": "1.0.0+26052603"
+      },
+      "store": ""
+    },
+    {
       "id": "nova_ai_art",
       "name": "Nova Ai Art",
       "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/nova_ai_art_icon.png",
