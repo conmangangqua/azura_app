@@ -91,7 +91,7 @@
     {
       "id": "rhythmlab",
       "name": "Rhythmlab",
-      "icon": "https://github.com/conmangangqua/azura_app/releases/download/dev/rhythmlab_icon.png",
+      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/rhythmlab_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
