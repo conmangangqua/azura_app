@@ -3,7 +3,7 @@
     {
       "id": "apex_booster",
       "name": "Apex Booster",
-      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/apex_booster_icon.png",
+      "icon": "https://github.com/conmangangqua/azura_app/releases/download/dev/apex_booster_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -12,7 +12,9 @@
         "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/apex_booster_prod.apk",
         "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/apex_booster.aab"
       },
-      "versions": {},
+      "versions": {
+        "dev": "1.0.1+26050801"
+      },
       "store": "https://play.google.com/store/apps/details?id=com.tranquilstudio.apex"
     },
     {
