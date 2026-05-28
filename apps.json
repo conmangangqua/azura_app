@@ -8,12 +8,9 @@
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/apex_booster_dev.apk",
-        "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/apex_booster_prod.apk",
-        "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/apex_booster.aab"
+        "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/apex_booster_prod.apk"
       },
       "versions": {
-        "dev": "1.0.1+26050801",
         "prod": "1.0.1+26050801"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquilstudio.apex"
@@ -26,12 +23,9 @@
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/glowai_dev.apk",
-        "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/glowai_prod.apk",
-        "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/glowai.aab"
+        "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/glowai_prod.apk"
       },
       "versions": {
-        "dev": "1.0.4+26052801",
         "prod": "1.0.4+26052801"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tmt.photo.ai.prod"
@@ -44,12 +38,9 @@
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/gpocket_dev.apk",
-        "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/gpocket_prod.apk",
-        "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/gpocket.aab"
+        "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/gpocket_prod.apk"
       },
       "versions": {
-        "dev": "1.0.5+26051501",
         "prod": "1.0.5+26051501"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquil.gba"
@@ -62,11 +53,9 @@
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/gps_circle_dev.plist",
         "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/gps_circle_prod.plist"
       },
       "versions": {
-        "dev": "1.0.0+26052302",
         "prod": "1.0.0+26052302"
       },
       "store": "https://apps.apple.com/us/app/gps-family-circle/id6770014236"
@@ -79,11 +68,9 @@
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/leining_ai_dev.plist",
         "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/leining_ai_prod.plist"
       },
       "versions": {
-        "dev": "1.0.0+26052604",
         "prod": "1.0.0+26052604"
       },
       "store": ""
@@ -96,14 +83,10 @@
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/rhythmlab_dev.apk",
-        "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/rhythmlab_prod.apk",
-        "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/rhythmlab.aab"
+        "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/rhythmlab_prod.apk"
       },
       "versions": {
-        "dev": "1.0.2+26051401",
-        "prod": "1.0.2+26051401",
-        "aab": "1.0.2+26051401"
+        "prod": "1.0.2+26051401"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquil.rhythmlab.beatmaker"
     },
@@ -115,12 +98,9 @@
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/snaphd_dev.apk",
-        "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/snaphd_prod.apk",
-        "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/snaphd.aab"
+        "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/snaphd_prod.apk"
       },
       "versions": {
-        "dev": "1.0.3+26051201",
         "prod": "1.0.3+26051201"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tmt.camerahd"
@@ -133,14 +113,10 @@
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/sonicboost_pro_dev.apk",
-        "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/sonicboost_pro_prod.apk",
-        "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/sonicboost_pro.aab"
+        "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/sonicboost_pro_prod.apk"
       },
       "versions": {
-        "dev": "1.0.4+26052601",
-        "prod": "1.0.4+26052601",
-        "aab": "1.0.3+26051401"
+        "prod": "1.0.4+26052601"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tmt.sonicboostpro"
     },
@@ -152,9 +128,7 @@
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/swift_secure_vpn_dev.apk",
-        "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/swift_secure_vpn_prod.apk",
-        "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/swift_secure_vpn.aab"
+        "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/swift_secure_vpn_prod.apk"
       },
       "versions": {},
       "store": "https://play.google.com/store/apps/details?id=com.tmt.vpn.connection"
@@ -167,12 +141,9 @@
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/vidkeeper_video_downloader_dev.apk",
-        "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/vidkeeper_video_downloader_prod.apk",
-        "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/vidkeeper_video_downloader.aab"
+        "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/vidkeeper_video_downloader_prod.apk"
       },
       "versions": {
-        "dev": "1.0.6+26050501",
         "prod": "1.0.6+26050501"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tmt.videodownloader.prod"
