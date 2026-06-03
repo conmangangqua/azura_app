@@ -128,7 +128,7 @@
     {
       "id": "sonicboost_pro",
       "name": "Sonicboost Pro",
-      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/sonicboost_pro_icon.png",
+      "icon": "https://github.com/conmangangqua/azura_app/releases/download/dev/sonicboost_pro_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -138,7 +138,7 @@
         "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/sonicboost_pro.aab"
       },
       "versions": {
-        "dev": "1.0.4+26052601",
+        "dev": "1.0.4+26060301",
         "prod": "1.0.4+26052601",
         "aab": "1.0.3+26051401"
       },
