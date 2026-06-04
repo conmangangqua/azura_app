@@ -93,7 +93,7 @@
     {
       "id": "rhythmlab",
       "name": "Rhythmlab",
-      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/rhythmlab_icon.png",
+      "icon": "https://github.com/conmangangqua/azura_app/releases/download/dev/rhythmlab_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -103,7 +103,7 @@
         "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/rhythmlab.aab"
       },
       "versions": {
-        "dev": "1.0.2+26051401",
+        "dev": "1.0.3+26060401",
         "prod": "1.0.2+26051401",
         "aab": "1.0.2+26051401"
       },
