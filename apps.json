@@ -21,7 +21,7 @@
     {
       "id": "glowai",
       "name": "Glowai",
-      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/glowai_icon.png",
+      "icon": "https://github.com/conmangangqua/azura_app/releases/download/dev/glowai_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -31,7 +31,7 @@
         "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/glowai.aab"
       },
       "versions": {
-        "dev": "1.0.4+26060401",
+        "dev": "1.0.4+26060701",
         "prod": "1.0.4+26060401",
         "aab": "1.0.4+26060401"
       },
