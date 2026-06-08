@@ -13,8 +13,7 @@
         "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/apex_booster.aab"
       },
       "versions": {
-        "dev": "1.0.1+26050801",
-        "prod": "1.0.1+26050801"
+        "dev": "1.0.1+26050801"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquilstudio.apex"
     },
@@ -50,9 +49,7 @@
         "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/gpocket.aab"
       },
       "versions": {
-        "dev": "1.0.5+26060401",
-        "prod": "1.0.5+26060401",
-        "aab": "1.0.5+26060401"
+        "dev": "1.0.5+26060401"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquil.gba"
     },
@@ -67,10 +64,7 @@
         "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/gps_circle_dev.plist",
         "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/gps_circle_prod.plist"
       },
-      "versions": {
-        "dev": "1.0.0+26052302",
-        "prod": "1.0.0+26052302"
-      },
+      "versions": {},
       "store": "https://apps.apple.com/us/app/gps-family-circle/id6770014236"
     },
     {
@@ -85,7 +79,6 @@
         "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/leining_ai_prod.plist"
       },
       "versions": {
-        "dev": "1.0.0+26060401",
         "prod": "1.0.0+26060401"
       },
       "store": ""
@@ -103,7 +96,6 @@
         "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/rhythmlab.aab"
       },
       "versions": {
-        "dev": "1.0.3+26060401",
         "prod": "1.0.3+26060401",
         "aab": "1.0.2+26051401"
       },
@@ -122,8 +114,7 @@
         "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/snaphd.aab"
       },
       "versions": {
-        "dev": "1.0.3+26051201",
-        "prod": "1.0.3+26051201"
+        "dev": "1.0.3+26051201"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tmt.camerahd"
     },
@@ -173,10 +164,7 @@
         "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/vidkeeper_video_downloader_prod.apk",
         "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/vidkeeper_video_downloader.aab"
       },
-      "versions": {
-        "dev": "1.0.6+26050501",
-        "prod": "1.0.6+26050501"
-      },
+      "versions": {},
       "store": "https://play.google.com/store/apps/details?id=com.tmt.videodownloader.prod"
     }
   ]
