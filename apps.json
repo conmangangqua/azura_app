@@ -76,7 +76,7 @@
     {
       "id": "leining_ai",
       "name": "Leining Ai",
-      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/leining_ai_icon.png",
+      "icon": "https://github.com/conmangangqua/azura_app/releases/download/dev/leining_ai_icon.png",
       "platform": "iOS",
       "description": "",
       "features": [],
@@ -85,7 +85,7 @@
         "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/leining_ai_prod.plist"
       },
       "versions": {
-        "dev": "1.0.0+26060401",
+        "dev": "1.0.0+26061501",
         "prod": "1.0.0+26060401"
       },
       "store": ""
