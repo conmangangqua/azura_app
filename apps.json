@@ -17,8 +17,8 @@
         "prod": "1.0.2+26061701"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquilstudio.apex",
-      "category": "Entertainment",
-      "category_source": "store"
+      "category": "Cleaner & Booster",
+      "category_source": "rule"
     },
     {
       "id": "glowai",
@@ -59,8 +59,8 @@
         "aab": "1.0.5+26061301"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquil.gba",
-      "category": "Entertainment",
-      "category_source": "store"
+      "category": "Emulator",
+      "category_source": "rule"
     },
     {
       "id": "gps_circle",
@@ -159,8 +159,8 @@
         "aab": "1.0.4+26060301"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tmt.sonicboostpro",
-      "category": "Tools",
-      "category_source": "store"
+      "category": "Cleaner & Booster",
+      "category_source": "rule"
     },
     {
       "id": "vidkeeper_video_downloader",
@@ -179,8 +179,8 @@
         "prod": "1.0.6+26050501"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tmt.videodownloader.prod",
-      "category": "Tools",
-      "category_source": "store"
+      "category": "Downloader",
+      "category_source": "rule"
     }
   ]
 }
