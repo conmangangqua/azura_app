@@ -16,7 +16,9 @@
         "dev": "1.0.2+26061701",
         "prod": "1.0.2+26061701"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquilstudio.apex"
+      "store": "https://play.google.com/store/apps/details?id=com.tranquilstudio.apex",
+      "category": "Entertainment",
+      "category_source": "store"
     },
     {
       "id": "glowai",
@@ -35,7 +37,9 @@
         "prod": "1.0.4+26060701",
         "aab": "1.0.4+26060701"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tmt.photo.ai.prod"
+      "store": "https://play.google.com/store/apps/details?id=com.tmt.photo.ai.prod",
+      "category": "Art & Design",
+      "category_source": "store"
     },
     {
       "id": "gpocket",
@@ -54,7 +58,9 @@
         "prod": "1.0.5+26061301",
         "aab": "1.0.5+26061301"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquil.gba"
+      "store": "https://play.google.com/store/apps/details?id=com.tranquil.gba",
+      "category": "Entertainment",
+      "category_source": "store"
     },
     {
       "id": "gps_circle",
@@ -71,7 +77,9 @@
         "dev": "1.0.0+26052302",
         "prod": "1.0.0+26052302"
       },
-      "store": "https://apps.apple.com/us/app/gps-family-circle/id6770014236"
+      "store": "https://apps.apple.com/us/app/gps-family-circle/id6770014236",
+      "category": "Navigation",
+      "category_source": "store"
     },
     {
       "id": "leining_ai",
@@ -88,7 +96,9 @@
         "dev": "1.0.0+26061501",
         "prod": "1.0.0+26061501"
       },
-      "store": ""
+      "store": "",
+      "category": null,
+      "category_source": null
     },
     {
       "id": "rhythmlab",
@@ -107,7 +117,9 @@
         "prod": "1.0.3+26061001",
         "aab": "1.0.3+26061001"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquil.rhythmlab.beatmaker"
+      "store": "https://play.google.com/store/apps/details?id=com.tranquil.rhythmlab.beatmaker",
+      "category": "Entertainment",
+      "category_source": "store"
     },
     {
       "id": "snaphd",
@@ -125,7 +137,9 @@
         "dev": "1.0.3+26051201",
         "prod": "1.0.3+26051201"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tmt.camerahd"
+      "store": "https://play.google.com/store/apps/details?id=com.tmt.camerahd",
+      "category": "Photography",
+      "category_source": "store"
     },
     {
       "id": "sonicboost_pro",
@@ -144,7 +158,9 @@
         "prod": "1.0.4+26060301",
         "aab": "1.0.4+26060301"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tmt.sonicboostpro"
+      "store": "https://play.google.com/store/apps/details?id=com.tmt.sonicboostpro",
+      "category": "Tools",
+      "category_source": "store"
     },
     {
       "id": "vidkeeper_video_downloader",
@@ -162,7 +178,9 @@
         "dev": "1.0.6+26050501",
         "prod": "1.0.6+26050501"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tmt.videodownloader.prod"
+      "store": "https://play.google.com/store/apps/details?id=com.tmt.videodownloader.prod",
+      "category": "Tools",
+      "category_source": "store"
     }
   ]
 }
