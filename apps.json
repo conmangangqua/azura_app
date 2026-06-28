@@ -18,8 +18,8 @@
         "aab": "1.0.2+26061701"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquilstudio.apex",
-      "category": null,
-      "category_source": null
+      "category": "Cleaner & Booster",
+      "category_source": "rule"
     },
     {
       "id": "glowai",
@@ -39,8 +39,8 @@
         "aab": "1.0.4+26060701"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tmt.photo.ai.prod",
-      "category": null,
-      "category_source": null
+      "category": "Art & Design",
+      "category_source": "store"
     },
     {
       "id": "gpocket",
@@ -60,8 +60,8 @@
         "aab": "1.0.5+26061301"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquil.gba",
-      "category": null,
-      "category_source": null
+      "category": "Emulator",
+      "category_source": "rule"
     },
     {
       "id": "gps_circle",
@@ -79,8 +79,8 @@
         "prod": "1.0.0+26052302"
       },
       "store": "https://apps.apple.com/us/app/gps-family-circle/id6770014236",
-      "category": null,
-      "category_source": null
+      "category": "Navigation",
+      "category_source": "store"
     },
     {
       "id": "leining_ai",
@@ -119,8 +119,8 @@
         "aab": "1.0.3+26061001"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquil.rhythmlab.beatmaker",
-      "category": null,
-      "category_source": null
+      "category": "Entertainment",
+      "category_source": "store"
     },
     {
       "id": "snaphd",
@@ -139,8 +139,8 @@
         "prod": "1.0.3+26051201"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tmt.camerahd",
-      "category": null,
-      "category_source": null
+      "category": "Photography",
+      "category_source": "store"
     },
     {
       "id": "sonicboost_pro",
@@ -160,8 +160,8 @@
         "aab": "1.0.4+26060301"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tmt.sonicboostpro",
-      "category": null,
-      "category_source": null
+      "category": "Cleaner & Booster",
+      "category_source": "rule"
     },
     {
       "id": "vidkeeper_video_downloader",
@@ -180,8 +180,8 @@
         "prod": "1.0.6+26050501"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tmt.videodownloader.prod",
-      "category": null,
-      "category_source": null
+      "category": "Downloader",
+      "category_source": "rule"
     }
   ]
 }
