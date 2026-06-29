@@ -66,7 +66,7 @@
     {
       "id": "gps_circle",
       "name": "Gps Circle",
-      "icon": "https://github.com/conmangangqua/azura_app/releases/download/dev/gps_circle_icon.png",
+      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/gps_circle_icon.png",
       "platform": "iOS",
       "description": "",
       "features": [],
@@ -76,7 +76,7 @@
       },
       "versions": {
         "dev": "1.0.2+26062503",
-        "prod": "1.0.0+26052302"
+        "prod": "1.0.2+26062503"
       },
       "store": "https://apps.apple.com/us/app/gps-family-circle/id6770014236",
       "category": "Navigation",
