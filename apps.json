@@ -125,7 +125,7 @@
     {
       "id": "snaphd",
       "name": "Snaphd",
-      "icon": "https://github.com/conmangangqua/azura_app/releases/download/dev/snaphd_icon.png",
+      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/snaphd_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
