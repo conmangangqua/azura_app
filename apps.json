@@ -19,7 +19,9 @@
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquilstudio.apex",
       "category": "Cleaner & Booster",
-      "category_source": "rule"
+      "category_source": "rule",
+      "store_updated": "May 17, 2026",
+      "store_version": "26061701 (1.0.2)"
     },
     {
       "id": "glowai",
@@ -40,7 +42,9 @@
       },
       "store": "https://play.google.com/store/apps/details?id=com.tmt.photo.ai.prod",
       "category": "Art & Design",
-      "category_source": "store"
+      "category_source": "store",
+      "store_updated": "Jun 12, 2026",
+      "store_version": "26060701 (1.0.4)"
     },
     {
       "id": "gpocket",
@@ -61,7 +65,9 @@
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquil.gba",
       "category": "Emulator",
-      "category_source": "rule"
+      "category_source": "rule",
+      "store_updated": "Jun 16, 2026",
+      "store_version": "26061301 (1.0.5)"
     },
     {
       "id": "gps_circle",
@@ -80,7 +86,9 @@
       },
       "store": "https://apps.apple.com/us/app/gps-family-circle/id6770014236",
       "category": "Navigation",
-      "category_source": "store"
+      "category_source": "store",
+      "store_updated": null,
+      "store_version": null
     },
     {
       "id": "leining_ai",
@@ -99,7 +107,9 @@
       },
       "store": "",
       "category": null,
-      "category_source": null
+      "category_source": null,
+      "store_updated": null,
+      "store_version": null
     },
     {
       "id": "rhythmlab",
@@ -120,7 +130,9 @@
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquil.rhythmlab.beatmaker",
       "category": "Entertainment",
-      "category_source": "store"
+      "category_source": "store",
+      "store_updated": "Jun 11, 2026",
+      "store_version": null
     },
     {
       "id": "snaphd",
@@ -140,7 +152,9 @@
       },
       "store": "https://play.google.com/store/apps/details?id=com.tmt.camerahd",
       "category": "Photography",
-      "category_source": "store"
+      "category_source": "store",
+      "store_updated": "May 13, 2026",
+      "store_version": "26051201 (1.0.3)"
     },
     {
       "id": "sonicboost_pro",
@@ -161,7 +175,9 @@
       },
       "store": "https://play.google.com/store/apps/details?id=com.tmt.sonicboostpro",
       "category": "Cleaner & Booster",
-      "category_source": "rule"
+      "category_source": "rule",
+      "store_updated": "Jun 3, 2026",
+      "store_version": "26060301 (1.0.4)"
     },
     {
       "id": "vidkeeper_video_downloader",
@@ -181,7 +197,9 @@
       },
       "store": "https://play.google.com/store/apps/details?id=com.tmt.videodownloader.prod",
       "category": "Downloader",
-      "category_source": "rule"
+      "category_source": "rule",
+      "store_updated": "May 5, 2026",
+      "store_version": "26050501 (1.0.6)"
     }
   ]
 }
