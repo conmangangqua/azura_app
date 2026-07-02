@@ -9,7 +9,7 @@
   <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate, max-age=0" />
   <meta http-equiv="Pragma" content="no-cache" />
   <meta http-equiv="Expires" content="0" />
-  <title>Azura Hub - Premium App Center (Light Edition)</title>
+  <title>Azura X Tranquil Mind Studio - Premium App Center (Light Edition)</title>
   
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -106,7 +106,7 @@
     }
 
     .search-section {
-      max-width: 500px;
+      max-width: 720px;
       margin: 40px auto 30px;
       padding: 0 20px;
       position: sticky;
@@ -537,7 +537,7 @@
   </div>
 
   <header>
-    <h1>Azura Hub</h1>
+    <h1>Azura X Tranquil Mind Studio</h1>
   </header>
 
   <section class="search-section">
@@ -552,7 +552,7 @@
   </main>
 
   <footer>
-    <p>&copy; 2026 Azura Hub. Powered by Platinum Engine.</p>
+    <p>&copy; 2026 Azura X Tranquil Mind Studio. Powered by Platinum Engine.</p>
     <p>Premium distribution for internal testing only.</p>
   </footer>
 
@@ -565,7 +565,7 @@
       const cats = [...new Set(allApps.map(a => a.category).filter(Boolean))].sort();
       if (!cats.length) { host.innerHTML = ""; return; }
       const chip = (label, val, cnt) => `<button type="button" class="cat-chip${selectedCategory===val?' active':''}" onclick="selectCategory(this.dataset.cat)" data-cat="${val.replace(/"/g,'&quot;')}">${label}${cnt!=null?` <span class="cnt">${cnt}</span>`:''}</button>`;
-      host.innerHTML = chip("Tất cả", "", allApps.filter(a=>a.category).length) + cats.map(c => chip(c, c, allApps.filter(a=>a.category===c).length)).join("");
+      host.innerHTML = chip("Tất cả", "", allApps.length) + cats.map(c => chip(c, c, allApps.filter(a=>a.category===c).length)).join("");
     };
     const selectCategory = (val) => { selectedCategory = val; buildCategoryChips(); filterApps(); };
 
