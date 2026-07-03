@@ -49,7 +49,7 @@
     {
       "id": "gpocket",
       "name": "Gpocket",
-      "icon": "https://github.com/conmangangqua/azura_app/releases/download/dev/gpocket_icon.png",
+      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/gpocket_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -125,8 +125,7 @@
       },
       "versions": {
         "dev": "1.0.3+26061001",
-        "prod": "1.0.3+26061001",
-        "aab": "1.0.3+26061001"
+        "prod": "1.0.3+26061001"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquil.rhythmlab.beatmaker",
       "category": null,
@@ -182,12 +181,11 @@
     {
       "id": "vidkeeper_video_downloader",
       "name": "Vidkeeper Video Downloader",
-      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/vidkeeper_video_downloader_icon.png",
+      "icon": "https://github.com/conmangangqua/azura_app/releases/download/dev/vidkeeper_video_downloader_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/vidkeeper_video_downloader_dev.apk",
         "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/vidkeeper_video_downloader_prod.apk",
         "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/vidkeeper_video_downloader.aab"
       },
