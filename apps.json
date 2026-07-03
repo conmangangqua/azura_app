@@ -49,7 +49,7 @@
     {
       "id": "gpocket",
       "name": "Gpocket",
-      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/gpocket_icon.png",
+      "icon": "https://github.com/conmangangqua/azura_app/releases/download/dev/gpocket_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
