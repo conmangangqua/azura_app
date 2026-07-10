@@ -25,7 +25,7 @@
     },
     {
       "id": "glowai",
-      "name": "Glowai",
+      "name": "GlowAI – AI Photo Generator",
       "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/glowai_icon.png",
       "platform": "Android",
       "description": "",
@@ -48,7 +48,7 @@
     },
     {
       "id": "gpocket",
-      "name": "Gpocket",
+      "name": "GPocket: GBA Emulator",
       "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/gpocket_icon.png",
       "platform": "Android",
       "description": "",
@@ -71,7 +71,7 @@
     },
     {
       "id": "gps_circle",
-      "name": "Gps Circle",
+      "name": "GPS Family Circle App",
       "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/gps_circle_icon.png",
       "platform": "iOS",
       "description": "",
@@ -113,7 +113,7 @@
     },
     {
       "id": "rhythmlab",
-      "name": "Rhythmlab",
+      "name": "RhythmLab Beat Maker Pro",
       "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/rhythmlab_icon.png",
       "platform": "Android",
       "description": "",
@@ -136,7 +136,7 @@
     },
     {
       "id": "snaphd",
-      "name": "Snaphd",
+      "name": "SnapHD: Camera HD",
       "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/snaphd_icon.png",
       "platform": "Android",
       "description": "",
@@ -158,7 +158,7 @@
     },
     {
       "id": "sonicboost_pro",
-      "name": "Sonicboost Pro",
+      "name": "SonicBooster: Volume Booster",
       "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/sonicboost_pro_icon.png",
       "platform": "Android",
       "description": "",
@@ -181,7 +181,7 @@
     },
     {
       "id": "vidkeeper_video_downloader",
-      "name": "Vidkeeper Video Downloader",
+      "name": "VidKeeper Video Downloader",
       "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/vidkeeper_video_downloader_icon.png",
       "platform": "Android",
       "description": "",
