@@ -3,7 +3,7 @@
     {
       "id": "apex_booster",
       "name": "Apex Booster",
-      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/apex_booster_icon.png",
+      "icon": "icons/apex_booster.webp",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -25,8 +25,8 @@
     },
     {
       "id": "glowai",
-      "name": "GlowAI \u2013 AI Photo Generator",
-      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/glowai_icon.png",
+      "name": "GlowAI – AI Photo Generator",
+      "icon": "icons/glowai.webp",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -49,7 +49,7 @@
     {
       "id": "gpocket",
       "name": "GPocket: Retro Emulator",
-      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/gpocket_icon.png",
+      "icon": "icons/gpocket.webp",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -72,7 +72,7 @@
     {
       "id": "gps_circle",
       "name": "GPS Family Circle App",
-      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/gps_circle_icon.png",
+      "icon": "icons/gps_circle.webp",
       "platform": "iOS",
       "description": "",
       "features": [],
@@ -93,7 +93,7 @@
     {
       "id": "leining_ai",
       "name": "Leining Ai",
-      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/leining_ai_icon.png",
+      "icon": "icons/leining_ai.webp",
       "platform": "iOS",
       "description": "",
       "features": [],
@@ -114,7 +114,7 @@
     {
       "id": "rhythmlab",
       "name": "RhythmLab Beat Maker Pro",
-      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/rhythmlab_icon.png",
+      "icon": "icons/rhythmlab.webp",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -137,7 +137,7 @@
     {
       "id": "snaphd",
       "name": "SnapHD: Camera HD",
-      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/snaphd_icon.png",
+      "icon": "icons/snaphd.webp",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -159,7 +159,7 @@
     {
       "id": "sonicboost_pro",
       "name": "SonicBooster: Volume Booster",
-      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/sonicboost_pro_icon.png",
+      "icon": "icons/sonicboost_pro.webp",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -182,7 +182,7 @@
     {
       "id": "vidkeeper_video_downloader",
       "name": "VidKeeper Video Downloader",
-      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/vidkeeper_video_downloader_icon.png",
+      "icon": "icons/vidkeeper_video_downloader.webp",
       "platform": "Android",
       "description": "",
       "features": [],
