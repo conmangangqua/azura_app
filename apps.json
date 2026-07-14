@@ -49,7 +49,7 @@
     {
       "id": "gpocket",
       "name": "GPocket: Retro Emulator",
-      "icon": "https://github.com/conmangangqua/azura_app/releases/download/dev/gpocket_icon.png",
+      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/gpocket_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -60,7 +60,7 @@
       },
       "versions": {
         "dev": "1.0.7+26071401",
-        "prod": "1.0.5+26061301",
+        "prod": "1.0.7+26071401",
         "aab": "1.0.6+26070701"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquil.gba",
