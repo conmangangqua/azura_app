@@ -59,6 +59,7 @@
         "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/gpocket.aab"
       },
       "versions": {
+        "dev": "1.0.6+26070701",
         "prod": "1.0.6+26070701",
         "aab": "1.0.6+26070701"
       },
@@ -101,6 +102,7 @@
         "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/leining_ai_prod.plist"
       },
       "versions": {
+        "dev": "1.0.0+26061501",
         "prod": "1.0.0+26061501"
       },
       "store": "",
@@ -190,6 +192,7 @@
         "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/vidkeeper_video_downloader.aab"
       },
       "versions": {
+        "dev": "1.0.6+26050501",
         "prod": "1.0.6+26050501"
       },
       "store": "",
