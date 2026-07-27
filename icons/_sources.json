@@ -1,0 +1,38 @@
+{
+  "apex_booster": {
+    "sha": "19a9800d7e192209a11c8e1d2456f8eab4666060f9f4f740175063126d32863c",
+    "src": "https://github.com/conmangangqua/azura_app/releases/download/prod/apex_booster_icon.png"
+  },
+  "glowai": {
+    "sha": "b5e951563ac7ca244410507633e88506dc4ebcce9b59b142d89e9bf93c5cc49f",
+    "src": "https://github.com/conmangangqua/azura_app/releases/download/prod/glowai_icon.png"
+  },
+  "gpocket": {
+    "sha": "f9b41baed0a3af08896eec2f72591b4067d3a71267da3f1da4cc32d520652c7d",
+    "src": "https://github.com/conmangangqua/azura_app/releases/download/prod/gpocket_icon.png"
+  },
+  "gps_circle": {
+    "sha": "e9af0faba66c23b3d28c1d4e2a68383d37a1651675a736ce394db975c4308dc4",
+    "src": "https://github.com/conmangangqua/azura_app/releases/download/prod/gps_circle_icon.png"
+  },
+  "leining_ai": {
+    "sha": "3a150a5485d67065d167bcb73c624c218c3ab7e7b115fccb29e73b11431b9eb0",
+    "src": "https://github.com/conmangangqua/azura_app/releases/download/prod/leining_ai_icon.png"
+  },
+  "rhythmlab": {
+    "sha": "bfd1f4839b3441556158d67fc7d95257367cd0e0407822c483cf2a64bb09087e",
+    "src": "https://github.com/conmangangqua/azura_app/releases/download/prod/rhythmlab_icon.png"
+  },
+  "snaphd": {
+    "sha": "c50425dbcca372e0f5f94ff529c8f377ba7645ffe55c482aea3c51775de68106",
+    "src": "https://github.com/conmangangqua/azura_app/releases/download/prod/snaphd_icon.png"
+  },
+  "sonicboost_pro": {
+    "sha": "905fd0b7dbdd95d0b6298d1ddbdd275d16ef559329056fd626ccb15081fae4ad",
+    "src": "https://github.com/conmangangqua/azura_app/releases/download/prod/sonicboost_pro_icon.png"
+  },
+  "vidkeeper_video_downloader": {
+    "sha": "851e8b90fe5ff085461fc9d284e5ac099b38090d7a2e278d97d7914d87deaecf",
+    "src": "https://github.com/conmangangqua/azura_app/releases/download/prod/vidkeeper_video_downloader_icon.png"
+  }
+}
