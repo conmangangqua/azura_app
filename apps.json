@@ -12,7 +12,11 @@
         "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/apex_booster_prod.apk",
         "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/apex_booster.aab"
       },
-      "versions": {},
+      "versions": {
+        "dev": "1.0.2+26061701",
+        "prod": "1.0.2+26061701",
+        "aab": "1.0.2+26061701"
+      },
       "store": "",
       "category": "Cleaner & Booster",
       "category_source": "rule",
@@ -31,7 +35,11 @@
         "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/glowai_prod.apk",
         "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/glowai.aab"
       },
-      "versions": {},
+      "versions": {
+        "dev": "1.0.4+26060701",
+        "prod": "1.0.4+26060701",
+        "aab": "1.0.4+26060701"
+      },
       "store": "",
       "category": "Photography",
       "category_source": "store",
@@ -50,7 +58,11 @@
         "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/gpocket_prod.apk",
         "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/gpocket.aab"
       },
-      "versions": {},
+      "versions": {
+        "dev": "1.0.6+26070701",
+        "prod": "1.0.6+26070701",
+        "aab": "1.0.6+26070701"
+      },
       "store": "",
       "category": "Emulator",
       "category_source": "rule",
@@ -69,6 +81,7 @@
         "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/gps_circle_prod.plist"
       },
       "versions": {
+        "dev": "1.0.2+26071001",
         "prod": "1.0.2+26071001"
       },
       "store": "https://apps.apple.com/us/app/gps-family-circle/id6770014236",
@@ -88,7 +101,10 @@
         "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/leining_ai_dev.plist",
         "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/leining_ai_prod.plist"
       },
-      "versions": {},
+      "versions": {
+        "dev": "1.0.0+26061501",
+        "prod": "1.0.0+26061501"
+      },
       "store": "https://apps.apple.com/us/app/leining-ai-art/id6770029096",
       "category": null,
       "category_source": null,
