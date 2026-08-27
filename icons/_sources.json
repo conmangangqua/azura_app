@@ -32,7 +32,7 @@
     "src": "https://github.com/conmangangqua/azura_app/releases/download/prod/sonicboost_pro_icon.png"
   },
   "vidkeeper_video_downloader": {
-    "sha": "851e8b90fe5ff085461fc9d284e5ac099b38090d7a2e278d97d7914d87deaecf",
-    "src": "https://github.com/conmangangqua/azura_app/releases/download/prod/vidkeeper_video_downloader_icon.png"
+    "sha": "cc2a300226c71fac4ed1a017438c3d1c6982fa7b96f67b7aa4e3a729977d4e20",
+    "src": "https://github.com/conmangangqua/azura_app/releases/download/dev/vidkeeper_video_downloader_icon.png"
   }
 }
