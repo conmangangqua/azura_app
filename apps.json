@@ -173,11 +173,11 @@
         "prod": "1.0.4+26060301",
         "aab": "1.0.4+26060301"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tmt.sonicboostpro",
       "category": "Cleaner & Booster",
       "category_source": "rule",
       "store_updated": null,
-      "store_version": null
+      "store_version": "26060301 (1.0.4)"
     },
     {
       "id": "vidkeeper_video_downloader",
@@ -196,11 +196,11 @@
         "prod": "1.0.6+26050501",
         "aab": "1.0.6+26080501"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tmt.videodownloader.prod",
       "category": "Downloader",
       "category_source": "rule",
       "store_updated": null,
-      "store_version": null
+      "store_version": "26050501 (1.0.6)"
     }
   ]
 }
