@@ -41,8 +41,8 @@
         "aab": "1.0.4+26060701"
       },
       "store": "",
-      "category": "Photography",
-      "category_source": "store",
+      "category": "photo-ai",
+      "category_source": "gitlab",
       "store_updated": null,
       "store_version": null
     },
@@ -129,8 +129,8 @@
         "aab": "1.0.3+26061001"
       },
       "store": "",
-      "category": "Music & Audio",
-      "category_source": "store",
+      "category": "music",
+      "category_source": "gitlab",
       "store_updated": null,
       "store_version": null
     },
@@ -151,8 +151,8 @@
         "prod": "1.0.3+26051201"
       },
       "store": "",
-      "category": "Photography",
-      "category_source": "store",
+      "category": "photo-ai",
+      "category_source": "gitlab",
       "store_updated": null,
       "store_version": null
     },
