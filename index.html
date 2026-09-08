@@ -147,13 +147,20 @@
       width: 100%;
       background: transparent;
       border: none;
-      padding: 16px 20px 16px 50px;
+      padding: 16px 56px 16px 50px;
       color: var(--text-main);
       font-family: inherit;
       font-size: 1rem;
       font-weight: 500;
       outline: none;
     }
+    /* Nút xoá trong ô tìm: chỉ hiện khi ô CÓ chữ (:has + :placeholder-shown, không
+       cần JS canh trạng thái). Deep-link ?app= tự điền tên app vào ô nên nút này là
+       đường thoát để xem lại toàn bộ danh sách. */
+    .search-clear { position: absolute; right: 14px; top: 50%; transform: translateY(-50%); width: 32px; height: 32px; display: none; align-items: center; justify-content: center; border: none; border-radius: 50%; background: rgba(0,0,0,.06); color: var(--text-main); font-size: 1rem; line-height: 1; cursor: pointer; padding: 0; }
+    .search-clear:hover { background: rgba(0,0,0,.12); }
+    .search-wrapper:has(input:not(:placeholder-shown)) .search-clear { display: flex; }
+
 
     .search-wrapper::before {
       content: '🔍';
@@ -673,7 +680,7 @@
 
   <section class="search-section">
     <div class="search-wrapper">
-      <input type="text" id="searchInput" placeholder="Search for apps..." oninput="filterApps()">
+      <input type="text" id="searchInput" placeholder="Search for apps..." oninput="filterApps()"><button type="button" class="search-clear" aria-label="Xoá tìm kiếm" onclick="var i=document.getElementById(&quot;searchInput&quot;);i.value=&quot;&quot;;filterApps();i.focus();window.scrollTo({top:0,behavior:&quot;smooth&quot;});">✕</button>
     </div>
   </section>
 
@@ -837,7 +844,13 @@
           if(appDL && oTim && typeof filterApps === "function"){
             oTim.value = appDL.name || slug;
             filterApps();
-            window.scrollTo(0, 0);
+            // Lọc xong chỉ còn ĐÚNG một card nên trang rất ngắn và không còn card nào
+            // phía trên giãn ra — cuộn tới đây mới mượt được (khác hẳn lúc cuộn giữa
+            // danh sách 36 app đang nạp dở). Chừa 90px vì ô tìm là sticky top.
+            requestAnimationFrame(function(){
+              var c = document.querySelector('[data-app-id="'+slug+'"]');
+              if(c) window.scrollTo({ top: Math.max(0, c.offsetTop - 90), behavior: "smooth" });
+            });
           }
           var card = document.querySelector('[data-app-id="'+slug+'"]');
           if(card){
