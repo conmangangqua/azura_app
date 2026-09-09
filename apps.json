@@ -93,7 +93,7 @@
     {
       "id": "leining_ai",
       "name": "Leining Ai",
-      "icon": "icons/leining_ai.webp",
+      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/leining_ai_icon.png",
       "platform": "iOS",
       "description": "",
       "features": [],
